@@ -1,4 +1,4 @@
-terraform {
+terraform { 
     required_version = "~> 1.6.1" // added latest version
     required_providers {
     aws = {
